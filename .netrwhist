@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/ahlev/Projects/topautocambodia/controllers'
+let g:netrw_dirhist_9='/home/ahlev/Projects/topautocambodia'
+let g:netrw_dirhist_8='/home/ahlev/Projects/topautocambodia/controllers'
+let g:netrw_dirhist_7='/home/ahlev/Projects/topautocambodia'
+let g:netrw_dirhist_6='/home/ahlev/Projects/ember-helloworld/app'
+let g:netrw_dirhist_5='/home/ahlev/Projects/ember-helloworld/app/components'
+let g:netrw_dirhist_4='/home/ahlev/Projects/ember-helloworld/app'
+let g:netrw_dirhist_3='/home/ahlev/Projects/ember-helloworld/app/controllers'
+let g:netrw_dirhist_2='/home/ahlev/Projects/ember-helloworld/app'
+let g:netrw_dirhist_1='/home/ahlev/Projects/ember-helloworld'
