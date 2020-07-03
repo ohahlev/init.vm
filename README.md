@@ -1,1 +1,1 @@
-# neovim
+# neovim-init.vm
